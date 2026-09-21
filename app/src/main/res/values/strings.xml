@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PokeDex</string>
+
+    <string name="poke_nombre">Chimecho</string>
+    <string name="poke_numero">#358</string>
+    <string name="pokemon_type">psiquico</string>
+
+    <string name="label_altura">altura</string>
+    <string name="label_peso">peso</string>
+    <string name="label_skill">habilidad</string>
+
+    <string name="poke_altura">0,6 m</string>
+    <string name="poke_peso">1,0 kg</string>
+    <string name="poke_skill">bola oscura</string>
+
+    <string name="poke_descripcion">emite gritos ultrasonicos, puede volar gracias a las ondas que produce al mover su cuerpo</string>
+
+    <string name="anterior">pokemon anterior</string>
+    <string name="next">pokemon siguiente</string>
+    <string name="fav">agregar a favoritos</string>
+
+    <string name="poke_anterior">Charizard N. 0006</string>
+    <string name="poke_siguiente">Squirtle N. 0007</string>
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="nombrepoke">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">45sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:background">@color/pokemon_yellow </item>
+    </style>
+
+    <style name="nump">
+        <item name="android:textColor">@color/text_dark</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="tipop">
+        <item name="android:textColor">@color/text_dark</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingLeft">14dp</item>
+        <item name="android:paddingRight">14dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:background">@color/pokemon_yellow </item>
+
+    </style>
+
+    <style name="statspoke">
+        <item name="android:textColor">@color/pokemon_red</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="textov">
+        <item name="android:textColor">@color/text_dark</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+
+    <style name="pokedes">
+        <item name="android:textColor">@color/text_dark</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:lineSpacingExtra">3dp</item>
+    </style>
+
+    <style name="navp">
+        <item name="android:textColor">@color/text_dark</item>
+        <item name="android:textSize">11sp</item>
+    </style>
+
+</resources>
